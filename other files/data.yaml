@@ -1,0 +1,6 @@
+
+train: C:/Users/90584/OneDrive/Desktop/images_lungs/chestXray8_512/train/images
+val: C:/Users/90584/OneDrive/Desktop/images_lungs/chestXray8_512/val/images
+
+nc: 8
+names: ['Infiltrate', 'Mass', 'Nodule', 'Atelectasis', 'Cardiomegaly', 'Effusion', 'Pneumonia', 'Pneumothorax']
